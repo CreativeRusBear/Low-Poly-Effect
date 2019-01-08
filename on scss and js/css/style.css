@@ -1,0 +1,1150 @@
+.css .p1 {
+  transition-delay: 25ms;
+  background: rgba(0, 206, 201, 0.3);
+  clip-path: polygon(30.79% 35.88%, 27.34% 30.77%, 29.2% 36.18%);
+}
+.css .p2 {
+  transition-delay: 557ms;
+  background: rgba(0, 206, 201, 0.7);
+  clip-path: polygon(37.94% 33.22%, 34.64% 30.87%, 35.65% 38.08%);
+}
+.css .p3 {
+  transition-delay: 361ms;
+  background: rgba(0, 206, 201, 0.3);
+  clip-path: polygon(33.28% 36.37%, 30.65% 30.13%, 30.79% 35.88%);
+}
+.css .p4 {
+  transition-delay: 627ms;
+  background: rgba(0, 206, 201, 0.8);
+  clip-path: polygon(35.65% 38.08%, 34.64% 30.87%, 33.28% 36.37%);
+}
+.css .p5 {
+  transition-delay: 162ms;
+  background: rgba(0, 206, 201, 0.5);
+  clip-path: polygon(34.64% 30.87%, 30.65% 30.13%, 33.28% 36.37%);
+}
+.css .p6 {
+  transition-delay: 264ms;
+  background: rgba(0, 206, 201, 0.2);
+  clip-path: polygon(29.2% 36.18%, 27.34% 30.77%, 27.79% 37.17%);
+}
+.css .p7 {
+  transition-delay: 624ms;
+  background: #00cec9;
+  clip-path: polygon(30.65% 30.13%, 27.34% 30.77%, 30.79% 35.88%);
+}
+.css .p8 {
+  transition-delay: 599ms;
+  background: rgba(0, 206, 201, 0.1);
+  clip-path: polygon(27.79% 37.17%, 24.45% 32.7%, 26.76% 38.97%);
+}
+.css .p9 {
+  transition-delay: 311ms;
+  background: rgba(0, 206, 201, 0.8);
+  clip-path: polygon(22.41% 35.9%, 21.64% 40.35%, 26.36% 41.63%);
+}
+.css .p10 {
+  transition-delay: 513ms;
+  background: rgba(0, 206, 201, 0.8);
+  clip-path: polygon(21.64% 52.22%, 26.36% 50.88%, 26.36% 41.63%);
+}
+.css .p11 {
+  transition-delay: 654ms;
+  background: #00cec9;
+  clip-path: polygon(21.64% 40.35%, 21.64% 52.22%, 26.36% 41.63%);
+}
+.css .p12 {
+  transition-delay: 564ms;
+  background: rgba(0, 206, 201, 0.4);
+  clip-path: polygon(26.76% 38.97%, 22.41% 35.9%, 26.36% 41.63%);
+}
+.css .p13 {
+  transition-delay: 647ms;
+  background: rgba(0, 206, 201, 0.4);
+  clip-path: polygon(24.45% 32.7%, 22.41% 35.9%, 26.76% 38.97%);
+}
+.css .p14 {
+  transition-delay: 180ms;
+  background: rgba(0, 206, 201, 0.4);
+  clip-path: polygon(27.34% 30.77%, 24.45% 32.7%, 27.79% 37.17%);
+}
+.css .p15 {
+  transition-delay: 167ms;
+  background: rgba(0, 206, 201, 0.6);
+  clip-path: polygon(34.73% 61.62%, 30.79% 56.63%, 30.71% 62.43%);
+}
+.css .p16 {
+  transition-delay: 151ms;
+  background: rgba(0, 206, 201, 0.3);
+  clip-path: polygon(33.23% 56.18%, 30.79% 56.63%, 34.73% 61.62%);
+}
+.css .p17 {
+  transition-delay: 672ms;
+  background: rgba(0, 206, 201, 0.7);
+  clip-path: polygon(30.79% 56.63%, 29.21% 56.32%, 30.71% 62.43%);
+}
+.css .p18 {
+  transition-delay: 93ms;
+  background: rgba(0, 206, 201, 0.4);
+  clip-path: polygon(22.44% 56.72%, 26.36% 50.88%, 21.64% 52.22%);
+}
+.css .p19 {
+  transition-delay: 619ms;
+  background: rgba(0, 206, 201, 0.6);
+  clip-path: polygon(37.94% 59.32%, 33.23% 56.18%, 34.73% 61.62%);
+}
+.css .p20 {
+  transition-delay: 172ms;
+  background: rgba(0, 206, 201, 0.9);
+  clip-path: polygon(30.71% 62.43%, 29.21% 56.32%, 27.4% 61.8%);
+}
+.css .p21 {
+  transition-delay: 437ms;
+  background: rgba(0, 206, 201, 0.3);
+  clip-path: polygon(35.69% 54.43%, 33.23% 56.18%, 37.94% 59.32%);
+}
+.css .p22 {
+  transition-delay: 17ms;
+  background: rgba(0, 206, 201, 0.5);
+  clip-path: polygon(27.8% 55.3%, 26.76% 53.53%, 24.5% 59.88%);
+}
+.css .p23 {
+  transition-delay: 626ms;
+  background: rgba(0, 206, 201, 0.9);
+  clip-path: polygon(24.5% 59.88%, 26.76% 53.53%, 22.44% 56.72%);
+}
+.css .p24 {
+  transition-delay: 359ms;
+  background: rgba(0, 206, 201, 0.8);
+  clip-path: polygon(27.4% 61.8%, 27.8% 55.3%, 24.5% 59.88%);
+}
+.css .p25 {
+  transition-delay: 302ms;
+  background: rgba(0, 206, 201, 0.9);
+  clip-path: polygon(26.76% 53.53%, 26.36% 50.88%, 22.44% 56.72%);
+}
+.css .p26 {
+  transition-delay: 49ms;
+  background: rgba(0, 206, 201, 0.8);
+  clip-path: polygon(29.21% 56.32%, 27.8% 55.3%, 27.4% 61.8%);
+}
+.css .p27 {
+  transition-delay: 148ms;
+  background: rgba(0, 206, 201, 0.9);
+  clip-path: polygon(46.86% 36.42%, 43.15% 32.55%, 46% 37.57%);
+}
+.css .p28 {
+  transition-delay: 480ms;
+  background: rgba(0, 206, 201, 0.7);
+  clip-path: polygon(45.69% 30.57%, 43.15% 32.55%, 46.86% 36.42%);
+}
+.css .p29 {
+  transition-delay: 405ms;
+  background: rgba(0, 206, 201, 0.4);
+  clip-path: polygon(45.66% 39.23%, 40.94% 39.38%, 46.03% 40.87%);
+}
+.css .p30 {
+  transition-delay: 402ms;
+  background: rgba(0, 206, 201, 0.5);
+  clip-path: polygon(43.15% 32.55%, 41.53% 35.55%, 46% 37.57%);
+}
+.css .p31 {
+  transition-delay: 476ms;
+  background: rgba(0, 206, 201, 0.5);
+  clip-path: polygon(41.53% 35.55%, 40.94% 39.38%, 45.66% 39.23%);
+}
+.css .p32 {
+  transition-delay: 699ms;
+  background: rgba(0, 206, 201, 0.7);
+  clip-path: polygon(46.03% 40.87%, 43.04% 45.52%, 47.09% 42.02%);
+}
+.css .p33 {
+  transition-delay: 247ms;
+  background: rgba(0, 206, 201, 0.4);
+  clip-path: polygon(43.04% 45.52%, 45.28% 47.23%, 47.09% 42.02%);
+}
+.css .p34 {
+  transition-delay: 411ms;
+  background: #00cec9;
+  clip-path: polygon(40.94% 39.38%, 41.51% 42.98%, 46.03% 40.87%);
+}
+.css .p35 {
+  transition-delay: 386ms;
+  background: rgba(0, 206, 201, 0.4);
+  clip-path: polygon(41.51% 42.98%, 43.04% 45.52%, 46.03% 40.87%);
+}
+.css .p36 {
+  transition-delay: 297ms;
+  background: rgba(0, 206, 201, 0.9);
+  clip-path: polygon(46% 37.57%, 41.53% 35.55%, 45.66% 39.23%);
+}
+.css .p37 {
+  transition-delay: 86ms;
+  background: rgba(0, 206, 201, 0.6);
+  clip-path: polygon(55.51% 37.87%, 53.36% 30.4%, 52.36% 36.02%);
+}
+.css .p38 {
+  transition-delay: 518ms;
+  background: rgba(0, 206, 201, 0.8);
+  clip-path: polygon(53.48% 53%, 58.51% 52.95%, 53.08% 51.25%);
+}
+.css .p39 {
+  transition-delay: 3ms;
+  background: rgba(0, 206, 201, 0.4);
+  clip-path: polygon(57.58% 32.8%, 53.36% 30.4%, 55.51% 37.87%);
+}
+.css .p40 {
+  transition-delay: 521ms;
+  background: rgba(0, 206, 201, 0.9);
+  clip-path: polygon(47.09% 42.02%, 45.28% 47.23%, 48.76% 42.88%);
+}
+.css .p41 {
+  transition-delay: 445ms;
+  background: rgba(0, 206, 201, 0.3);
+  clip-path: polygon(53.36% 30.4%, 49.01% 29.85%, 52.36% 36.02%);
+}
+.css .p42 {
+  transition-delay: 523ms;
+  background: rgba(0, 206, 201, 0.4);
+  clip-path: polygon(49.01% 29.85%, 45.69% 30.57%, 48.06% 35.73%);
+}
+.css .p43 {
+  transition-delay: 54ms;
+  background: rgba(0, 206, 201, 0.8);
+  clip-path: polygon(53.25% 54.37%, 58.51% 52.95%, 53.48% 53%);
+}
+.css .p44 {
+  transition-delay: 203ms;
+  background: #00cec9;
+  clip-path: polygon(48.06% 35.73%, 45.69% 30.57%, 46.86% 36.42%);
+}
+.css .p45 {
+  transition-delay: 377ms;
+  background: rgba(0, 206, 201, 0.3);
+  clip-path: polygon(52.36% 36.02%, 49.01% 29.85%, 49.43% 35.52%);
+}
+.css .p46 {
+  transition-delay: 578ms;
+  background: rgba(0, 206, 201, 0.8);
+  clip-path: polygon(49.43% 35.52%, 49.01% 29.85%, 48.06% 35.73%);
+}
+.css .p47 {
+  transition-delay: 416ms;
+  background: rgba(0, 206, 201, 0.3);
+  clip-path: polygon(49.33% 56.68%, 49.43% 62.35%, 51.26% 56.38%);
+}
+.css .p48 {
+  transition-delay: 573ms;
+  background: rgba(0, 206, 201, 0.7);
+  clip-path: polygon(49.43% 62.35%, 53.03% 61.75%, 51.26% 56.38%);
+}
+.css .p49 {
+  transition-delay: 697ms;
+  background: rgba(0, 206, 201, 0.2);
+  clip-path: polygon(51.26% 56.38%, 53.03% 61.75%, 52.54% 55.57%);
+}
+.css .p50 {
+  transition-delay: 334ms;
+  background: #00cec9;
+  clip-path: polygon(53.03% 61.75%, 55.9% 59.98%, 52.54% 55.57%);
+}
+.css .p51 {
+  transition-delay: 696ms;
+  background: rgba(0, 206, 201, 0.5);
+  clip-path: polygon(44.56% 61.38%, 49.43% 62.35%, 49.33% 56.68%);
+}
+.css .p52 {
+  transition-delay: 140ms;
+  background: rgba(0, 206, 201, 0.8);
+  clip-path: polygon(52.54% 55.57%, 55.9% 59.98%, 53.25% 54.37%);
+}
+.css .p53 {
+  transition-delay: 635ms;
+  background: rgba(0, 206, 201, 0.3);
+  clip-path: polygon(40.11% 57.98%, 44.56% 61.38%, 46% 55.83%);
+}
+.css .p54 {
+  transition-delay: 73ms;
+  background: #00cec9;
+  clip-path: polygon(42.76% 53.37%, 40.11% 57.98%, 46% 55.83%);
+}
+.css .p55 {
+  transition-delay: 554ms;
+  background: rgba(0, 206, 201, 0.6);
+  clip-path: polygon(45.28% 47.23%, 47.91% 48.35%, 48.76% 42.88%);
+}
+.css .p56 {
+  transition-delay: 307ms;
+  background: rgba(0, 206, 201, 0.2);
+  clip-path: polygon(46% 55.83%, 44.56% 61.38%, 49.33% 56.68%);
+}
+.css .p57 {
+  transition-delay: 43ms;
+  background: rgba(0, 206, 201, 0.7);
+  clip-path: polygon(51% 43.62%, 51.94% 50.08%, 56.64% 46.97%);
+}
+.css .p58 {
+  transition-delay: 671ms;
+  background: #00cec9;
+  clip-path: polygon(50.17% 49.2%, 51.94% 50.08%, 51% 43.62%);
+}
+.css .p59 {
+  transition-delay: 348ms;
+  background: rgba(0, 206, 201, 0.4);
+  clip-path: polygon(47.91% 48.35%, 50.17% 49.2%, 51% 43.62%);
+}
+.css .p60 {
+  transition-delay: 548ms;
+  background: rgba(0, 206, 201, 0.2);
+  clip-path: polygon(48.76% 42.88%, 47.91% 48.35%, 51% 43.62%);
+}
+.css .p61 {
+  transition-delay: 73ms;
+  background: rgba(0, 206, 201, 0.9);
+  clip-path: polygon(55.9% 59.98%, 57.83% 57.03%, 53.25% 54.37%);
+}
+.css .p62 {
+  transition-delay: 569ms;
+  background: rgba(0, 206, 201, 0.6);
+  clip-path: polygon(57.83% 57.03%, 58.51% 52.95%, 53.25% 54.37%);
+}
+.css .p63 {
+  transition-delay: 346ms;
+  background: #00cec9;
+  clip-path: polygon(53.08% 51.25%, 58.51% 52.95%, 56.64% 46.97%);
+}
+.css .p64 {
+  transition-delay: 227ms;
+  background: rgba(0, 206, 201, 0.2);
+  clip-path: polygon(51.94% 50.08%, 53.08% 51.25%, 56.64% 46.97%);
+}
+.css .p65 {
+  transition-delay: 564ms;
+  background: rgba(0, 206, 201, 0.6);
+  clip-path: polygon(65.95% 47.23%, 68.59% 48.35%, 69.45% 42.88%);
+}
+.css .p66 {
+  transition-delay: 41ms;
+  background: #00cec9;
+  clip-path: polygon(63.73% 45.52%, 65.95% 47.23%, 67.76% 42.02%);
+}
+.css .p67 {
+  transition-delay: 347ms;
+  background: rgba(0, 206, 201, 0.9);
+  clip-path: polygon(66.71% 40.87%, 63.73% 45.52%, 67.76% 42.02%);
+}
+.css .p68 {
+  transition-delay: 137ms;
+  background: rgba(0, 206, 201, 0.9);
+  clip-path: polygon(62.19% 42.98%, 63.73% 45.52%, 66.71% 40.87%);
+}
+.css .p69 {
+  transition-delay: 512ms;
+  background: rgba(0, 206, 201, 0.3);
+  clip-path: polygon(67.76% 42.02%, 65.95% 47.23%, 69.45% 42.88%);
+}
+.css .p70 {
+  transition-delay: 150ms;
+  background: rgba(0, 206, 201, 0.2);
+  clip-path: polygon(66.35% 39.23%, 62.19% 42.98%, 66.71% 40.87%);
+}
+.css .p71 {
+  transition-delay: 56ms;
+  background: rgba(0, 206, 201, 0.7);
+  clip-path: polygon(66.67% 37.57%, 61.61% 39.38%, 66.35% 39.23%);
+}
+.css .p72 {
+  transition-delay: 37ms;
+  background: rgba(0, 206, 201, 0.1);
+  clip-path: polygon(69.45% 42.88%, 68.59% 48.35%, 71.68% 43.62%);
+}
+.css .p73 {
+  transition-delay: 459ms;
+  background: rgba(0, 206, 201, 0.9);
+  clip-path: polygon(62.2% 35.55%, 61.61% 39.38%, 66.67% 37.57%);
+}
+.css .p74 {
+  transition-delay: 686ms;
+  background: rgba(0, 206, 201, 0.1);
+  clip-path: polygon(67.54% 36.42%, 62.2% 35.55%, 66.67% 37.57%);
+}
+.css .p75 {
+  transition-delay: 431ms;
+  background: rgba(0, 206, 201, 0.2);
+  clip-path: polygon(61.61% 39.38%, 62.19% 42.98%, 66.35% 39.23%);
+}
+.css .p76 {
+  transition-delay: 588ms;
+  background: rgba(0, 206, 201, 0.2);
+  clip-path: polygon(73.75% 51.25%, 74.15% 53%, 79.19% 52.95%);
+}
+.css .p77 {
+  transition-delay: 134ms;
+  background: rgba(0, 206, 201, 0.6);
+  clip-path: polygon(74.15% 53%, 73.93% 54.37%, 79.19% 52.95%);
+}
+.css .p78 {
+  transition-delay: 73ms;
+  background: rgba(0, 206, 201, 0.5);
+  clip-path: polygon(68.59% 48.35%, 70.85% 49.2%, 71.68% 43.62%);
+}
+.css .p79 {
+  transition-delay: 246ms;
+  background: rgba(0, 206, 201, 0.1);
+  clip-path: polygon(77.33% 46.97%, 73.75% 51.25%, 79.19% 52.95%);
+}
+.css .p80 {
+  transition-delay: 689ms;
+  background: rgba(0, 206, 201, 0.6);
+  clip-path: polygon(73.93% 54.37%, 78.5% 57.03%, 79.19% 52.95%);
+}
+.css .p81 {
+  transition-delay: 576ms;
+  background: rgba(0, 206, 201, 0.7);
+  clip-path: polygon(71.68% 43.62%, 70.85% 49.2%, 77.33% 46.97%);
+}
+.css .p82 {
+  transition-delay: 142ms;
+  background: rgba(0, 206, 201, 0.8);
+  clip-path: polygon(70.85% 49.2%, 72.61% 50.08%, 77.33% 46.97%);
+}
+.css .p83 {
+  transition-delay: 634ms;
+  background: #00cec9;
+  clip-path: polygon(72.61% 50.08%, 73.75% 51.25%, 77.33% 46.97%);
+}
+.css .p84 {
+  transition-delay: 155ms;
+  background: rgba(0, 206, 201, 0.8);
+  clip-path: polygon(73.05% 36.02%, 69.7% 29.85%, 70.11% 35.52%);
+}
+.css .p85 {
+  transition-delay: 672ms;
+  background: #00cec9;
+  clip-path: polygon(73.7% 61.75%, 76.59% 59.98%, 73.21% 55.57%);
+}
+.css .p86 {
+  transition-delay: 306ms;
+  background: rgba(0, 206, 201, 0.3);
+  clip-path: polygon(70.11% 62.35%, 73.7% 61.75%, 71.94% 56.38%);
+}
+.css .p87 {
+  transition-delay: 287ms;
+  background: rgba(0, 206, 201, 0.7);
+  clip-path: polygon(71.94% 56.38%, 73.7% 61.75%, 73.21% 55.57%);
+}
+.css .p88 {
+  transition-delay: 65ms;
+  background: #00cec9;
+  clip-path: polygon(73.21% 55.57%, 76.59% 59.98%, 73.93% 54.37%);
+}
+.css .p89 {
+  transition-delay: 370ms;
+  background: rgba(0, 206, 201, 0.3);
+  clip-path: polygon(65.24% 61.38%, 70.11% 62.35%, 70.01% 56.68%);
+}
+.css .p90 {
+  transition-delay: 421ms;
+  background: rgba(0, 206, 201, 0.3);
+  clip-path: polygon(66.67% 55.83%, 65.24% 61.38%, 70.01% 56.68%);
+}
+.css .p91 {
+  transition-delay: 629ms;
+  background: #00cec9;
+  clip-path: polygon(60.79% 57.98%, 65.24% 61.38%, 66.67% 55.83%);
+}
+.css .p92 {
+  transition-delay: 543ms;
+  background: #00cec9;
+  clip-path: polygon(76.59% 59.98%, 78.5% 57.03%, 73.93% 54.37%);
+}
+.css .p93 {
+  transition-delay: 504ms;
+  background: rgba(0, 206, 201, 0.1);
+  clip-path: polygon(63.83% 32.55%, 62.2% 35.55%, 67.54% 36.42%);
+}
+.css .p94 {
+  transition-delay: 143ms;
+  background: rgba(0, 206, 201, 0.8);
+  clip-path: polygon(70.01% 56.68%, 70.11% 62.35%, 71.94% 56.38%);
+}
+.css .p95 {
+  transition-delay: 72ms;
+  background: rgba(0, 206, 201, 0.9);
+  clip-path: polygon(70.11% 35.52%, 66.37% 30.57%, 68.75% 35.73%);
+}
+.css .p96 {
+  transition-delay: 616ms;
+  background: rgba(0, 206, 201, 0.4);
+  clip-path: polygon(78.26% 32.8%, 74.05% 30.4%, 76.19% 37.87%);
+}
+.css .p97 {
+  transition-delay: 322ms;
+  background: rgba(0, 206, 201, 0.9);
+  clip-path: polygon(66.37% 30.57%, 63.83% 32.55%, 68.75% 35.73%);
+}
+.css .p98 {
+  transition-delay: 396ms;
+  background: rgba(0, 206, 201, 0.7);
+  clip-path: polygon(68.75% 35.73%, 63.83% 32.55%, 67.54% 36.42%);
+}
+.css .p99 {
+  transition-delay: 596ms;
+  background: rgba(0, 206, 201, 0.3);
+  clip-path: polygon(69.7% 29.85%, 66.37% 30.57%, 70.11% 35.52%);
+}
+.css .p100 {
+  transition-delay: 431ms;
+  background: rgba(0, 206, 201, 0.8);
+  clip-path: polygon(63.45% 53.37%, 60.79% 57.98%, 66.67% 55.83%);
+}
+.css .p101 {
+  transition-delay: 388ms;
+  background: rgba(0, 206, 201, 0.8);
+  clip-path: polygon(76.19% 37.87%, 74.05% 30.4%, 73.05% 36.02%);
+}
+.css .p102 {
+  transition-delay: 470ms;
+  background: #00cec9;
+  clip-path: polygon(74.05% 30.4%, 69.7% 29.85%, 73.05% 36.02%);
+}
+.css .p103 {
+  transition-delay: 597ms;
+  background: #00cec9;
+  clip-path: polygon(50% 50%, 50% 50%, 50% 50%);
+}
+
+.p1 {
+  transition-delay: 430ms;
+  background: #00cec9;
+  clip-path: polygon(40.56% 55.33%, 45.74% 56.57%, 41.45% 53.5%);
+}
+
+.p2 {
+  transition-delay: 669ms;
+  background: rgba(0, 206, 201, 0.8);
+  clip-path: polygon(39.23% 56.33%, 41.24% 61.57%, 40.56% 55.33%);
+}
+
+.p3 {
+  transition-delay: 121ms;
+  background: rgba(0, 206, 201, 0.4);
+  clip-path: polygon(43.9% 59.68%, 45.74% 56.57%, 40.56% 55.33%);
+}
+
+.p4 {
+  transition-delay: 285ms;
+  background: rgba(0, 206, 201, 0.3);
+  clip-path: polygon(41.24% 61.57%, 43.9% 59.68%, 40.56% 55.33%);
+}
+
+.p5 {
+  transition-delay: 647ms;
+  background: rgba(0, 206, 201, 0.9);
+  clip-path: polygon(41.45% 53.5%, 46.43% 52.15%, 41.78% 50.68%);
+}
+
+.p6 {
+  transition-delay: 366ms;
+  background: rgba(0, 206, 201, 0.5);
+  clip-path: polygon(46.43% 52.15%, 46.43% 30.7%, 41.78% 50.68%);
+}
+
+.p7 {
+  transition-delay: 82ms;
+  background: rgba(0, 206, 201, 0.2);
+  clip-path: polygon(38.14% 62.2%, 41.24% 61.57%, 39.23% 56.33%);
+}
+
+.p8 {
+  transition-delay: 635ms;
+  background: rgba(0, 206, 201, 0.7);
+  clip-path: polygon(30.93% 59.37%, 34.21% 61.52%, 35.38% 56.2%);
+}
+
+.p9 {
+  transition-delay: 108ms;
+  background: rgba(0, 206, 201, 0.9);
+  clip-path: polygon(35.38% 56.2%, 34.21% 61.52%, 37.52% 56.63%);
+}
+
+.p10 {
+  transition-delay: 312ms;
+  background: rgba(0, 206, 201, 0.8);
+  clip-path: polygon(41.78% 50.68%, 46.43% 30.7%, 41.78% 30.7%);
+}
+
+.p11 {
+  transition-delay: 653ms;
+  background: rgba(0, 206, 201, 0.4);
+  clip-path: polygon(33.1% 54.58%, 30.93% 59.37%, 35.38% 56.2%);
+}
+
+.p12 {
+  transition-delay: 464ms;
+  background: rgba(0, 206, 201, 0.2);
+  clip-path: polygon(37.52% 56.63%, 38.14% 62.2%, 39.23% 56.33%);
+}
+
+.p13 {
+  transition-delay: 150ms;
+  background: #00cec9;
+  clip-path: polygon(34.21% 61.52%, 38.14% 62.2%, 37.52% 56.63%);
+}
+
+.p14 {
+  transition-delay: 549ms;
+  background: rgba(0, 206, 201, 0.9);
+  clip-path: polygon(45.74% 56.57%, 46.43% 52.15%, 41.45% 53.5%);
+}
+
+.p15 {
+  transition-delay: 299ms;
+  background: #00cec9;
+  clip-path: polygon(55.44% 39.4%, 51.34% 43.1%, 55.8% 41.02%);
+}
+
+.p16 {
+  transition-delay: 465ms;
+  background: rgba(0, 206, 201, 0.5);
+  clip-path: polygon(55.8% 41.02%, 52.85% 45.58%, 56.84% 42.15%);
+}
+
+.p17 {
+  transition-delay: 502ms;
+  background: #00cec9;
+  clip-path: polygon(51.34% 43.1%, 52.85% 45.58%, 55.8% 41.02%);
+}
+
+.p18 {
+  transition-delay: 320ms;
+  background: rgba(0, 206, 201, 0.1);
+  clip-path: polygon(52.85% 45.58%, 55.05% 47.27%, 56.84% 42.15%);
+}
+
+.p19 {
+  transition-delay: 651ms;
+  background: rgba(0, 206, 201, 0.1);
+  clip-path: polygon(55.76% 55.75%, 54.35% 61.22%, 59.05% 56.58%);
+}
+
+.p20 {
+  transition-delay: 453ms;
+  background: rgba(0, 206, 201, 0.8);
+  clip-path: polygon(52.59% 53.32%, 49.96% 57.85%, 55.76% 55.75%);
+}
+
+.p21 {
+  transition-delay: 467ms;
+  background: rgba(0, 206, 201, 0.3);
+  clip-path: polygon(56.84% 42.15%, 55.05% 47.27%, 58.49% 42.98%);
+}
+
+.p22 {
+  transition-delay: 441ms;
+  background: rgba(0, 206, 201, 0.9);
+  clip-path: polygon(54.35% 61.22%, 59.15% 62.17%, 59.05% 56.58%);
+}
+
+.p23 {
+  transition-delay: 14ms;
+  background: rgba(0, 206, 201, 0.6);
+  clip-path: polygon(49.96% 57.85%, 54.35% 61.22%, 55.76% 55.75%);
+}
+
+.p24 {
+  transition-delay: 26ms;
+  background: rgba(0, 206, 201, 0.7);
+  clip-path: polygon(50.79% 39.53%, 51.34% 43.1%, 55.44% 39.4%);
+}
+
+.p25 {
+  transition-delay: 469ms;
+  background: rgba(0, 206, 201, 0.5);
+  clip-path: polygon(62.74% 51.23%, 63.13% 52.95%, 68.09% 52.92%);
+}
+
+.p26 {
+  transition-delay: 617ms;
+  background: rgba(0, 206, 201, 0.2);
+  clip-path: polygon(59.05% 56.58%, 59.15% 62.17%, 60.95% 56.28%);
+}
+
+.p27 {
+  transition-delay: 195ms;
+  background: rgba(0, 206, 201, 0.9);
+  clip-path: polygon(63.13% 52.95%, 67.41% 56.92%, 68.09% 52.92%);
+}
+
+.p28 {
+  transition-delay: 336ms;
+  background: rgba(0, 206, 201, 0.8);
+  clip-path: polygon(55.05% 47.27%, 57.65% 48.38%, 58.49% 42.98%);
+}
+
+.p29 {
+  transition-delay: 392ms;
+  background: rgba(0, 206, 201, 0.8);
+  clip-path: polygon(61.61% 50.08%, 62.74% 51.23%, 66.25% 47.02%);
+}
+
+.p30 {
+  transition-delay: 657ms;
+  background: rgba(0, 206, 201, 0.4);
+  clip-path: polygon(57.65% 48.38%, 59.88% 49.22%, 60.69% 43.72%);
+}
+
+.p31 {
+  transition-delay: 131ms;
+  background: rgba(0, 206, 201, 0.2);
+  clip-path: polygon(58.49% 42.98%, 57.65% 48.38%, 60.69% 43.72%);
+}
+
+.p32 {
+  transition-delay: 258ms;
+  background: rgba(0, 206, 201, 0.8);
+  clip-path: polygon(60.69% 43.72%, 59.88% 49.22%, 66.25% 47.02%);
+}
+
+.p33 {
+  transition-delay: 436ms;
+  background: rgba(0, 206, 201, 0.7);
+  clip-path: polygon(59.88% 49.22%, 61.61% 50.08%, 66.25% 47.02%);
+}
+
+.p34 {
+  transition-delay: 210ms;
+  background: rgba(0, 206, 201, 0.4);
+  clip-path: polygon(66.25% 47.02%, 62.74% 51.23%, 68.09% 52.92%);
+}
+
+.p35 {
+  transition-delay: 509ms;
+  background: rgba(0, 206, 201, 0.6);
+  clip-path: polygon(59.15% 62.17%, 62.69% 61.57%, 60.95% 56.28%);
+}
+
+.p36 {
+  transition-delay: 140ms;
+  background: rgba(0, 206, 201, 0.2);
+  clip-path: polygon(57.8% 35.95%, 55.46% 30.85%, 56.61% 36.62%);
+}
+
+.p37 {
+  transition-delay: 25ms;
+  background: rgba(0, 206, 201, 0.7);
+  clip-path: polygon(55.46% 30.85%, 52.96% 32.8%, 56.61% 36.62%);
+}
+
+.p38 {
+  transition-delay: 262ms;
+  background: rgba(0, 206, 201, 0.4);
+  clip-path: polygon(59.15% 35.73%, 58.74% 30.15%, 57.8% 35.95%);
+}
+
+.p39 {
+  transition-delay: 640ms;
+  background: rgba(0, 206, 201, 0.7);
+  clip-path: polygon(56.61% 36.62%, 52.96% 32.8%, 55.76% 37.75%);
+}
+
+.p40 {
+  transition-delay: 232ms;
+  background: rgba(0, 206, 201, 0.1);
+  clip-path: polygon(63.03% 30.7%, 58.74% 30.15%, 59.15% 35.73%);
+}
+
+.p41 {
+  transition-delay: 150ms;
+  background: rgba(0, 206, 201, 0.7);
+  clip-path: polygon(55.76% 37.75%, 51.35% 35.78%, 55.44% 39.4%);
+}
+
+.p42 {
+  transition-delay: 218ms;
+  background: rgba(0, 206, 201, 0.9);
+  clip-path: polygon(51.35% 35.78%, 50.79% 39.53%, 55.44% 39.4%);
+}
+
+.p43 {
+  transition-delay: 176ms;
+  background: rgba(0, 206, 201, 0.1);
+  clip-path: polygon(52.96% 32.8%, 51.35% 35.78%, 55.76% 37.75%);
+}
+
+.p44 {
+  transition-delay: 4ms;
+  background: rgba(0, 206, 201, 0.7);
+  clip-path: polygon(58.74% 30.15%, 55.46% 30.85%, 57.8% 35.95%);
+}
+
+.p45 {
+  transition-delay: 498ms;
+  background: rgba(0, 206, 201, 0.3);
+  clip-path: polygon(62.04% 36.23%, 63.03% 30.7%, 59.15% 35.73%);
+}
+
+.p46 {
+  transition-delay: 423ms;
+  background: rgba(0, 206, 201, 0.7);
+  clip-path: polygon(62.69% 61.57%, 65.53% 59.83%, 62.2% 55.47%);
+}
+
+.p47 {
+  transition-delay: 510ms;
+  background: rgba(0, 206, 201, 0.6);
+  clip-path: polygon(65.53% 59.83%, 67.41% 56.92%, 62.9% 54.3%);
+}
+
+.p48 {
+  transition-delay: 396ms;
+  background: rgba(0, 206, 201, 0.5);
+  clip-path: polygon(60.95% 56.28%, 62.69% 61.57%, 62.2% 55.47%);
+}
+
+.p49 {
+  transition-delay: 600ms;
+  background: rgba(0, 206, 201, 0.3);
+  clip-path: polygon(62.2% 55.47%, 65.53% 59.83%, 62.9% 54.3%);
+}
+
+.p50 {
+  transition-delay: 482ms;
+  background: rgba(0, 206, 201, 0.6);
+  clip-path: polygon(65.13% 38.05%, 63.03% 30.7%, 62.04% 36.23%);
+}
+
+.p51 {
+  transition-delay: 500ms;
+  background: rgba(0, 206, 201, 0.6);
+  clip-path: polygon(67.18% 33.05%, 63.03% 30.7%, 65.13% 38.05%);
+}
+
+.p52 {
+  transition-delay: 590ms;
+  background: #00cec9;
+  clip-path: polygon(62.9% 54.3%, 67.41% 56.92%, 63.13% 52.95%);
+}
+
+.p53 {
+  transition-delay: 252ms;
+  background: rgba(0, 206, 201, 0.9);
+  clip-path: polygon(50% 50%, 50% 50%, 50% 50%);
+}
+
+.p54 {
+  transition-delay: 265ms;
+  background: rgba(0, 206, 201, 0.7);
+  clip-path: polygon(50% 50%, 50% 50%, 50% 50%);
+}
+
+.p55 {
+  transition-delay: 482ms;
+  background: rgba(0, 206, 201, 0.9);
+  clip-path: polygon(50% 50%, 50% 50%, 50% 50%);
+}
+
+.p56 {
+  transition-delay: 323ms;
+  background: rgba(0, 206, 201, 0.5);
+  clip-path: polygon(50% 50%, 50% 50%, 50% 50%);
+}
+
+.p57 {
+  transition-delay: 424ms;
+  background: rgba(0, 206, 201, 0.9);
+  clip-path: polygon(50% 50%, 50% 50%, 50% 50%);
+}
+
+.p58 {
+  transition-delay: 294ms;
+  background: rgba(0, 206, 201, 0.4);
+  clip-path: polygon(50% 50%, 50% 50%, 50% 50%);
+}
+
+.p59 {
+  transition-delay: 479ms;
+  background: rgba(0, 206, 201, 0.7);
+  clip-path: polygon(50% 50%, 50% 50%, 50% 50%);
+}
+
+.p60 {
+  transition-delay: 622ms;
+  background: rgba(0, 206, 201, 0.6);
+  clip-path: polygon(50% 50%, 50% 50%, 50% 50%);
+}
+
+.p61 {
+  transition-delay: 337ms;
+  background: rgba(0, 206, 201, 0.9);
+  clip-path: polygon(50% 50%, 50% 50%, 50% 50%);
+}
+
+.p62 {
+  transition-delay: 454ms;
+  background: rgba(0, 206, 201, 0.5);
+  clip-path: polygon(50% 50%, 50% 50%, 50% 50%);
+}
+
+.p63 {
+  transition-delay: 612ms;
+  background: rgba(0, 206, 201, 0.7);
+  clip-path: polygon(50% 50%, 50% 50%, 50% 50%);
+}
+
+.p64 {
+  transition-delay: 76ms;
+  background: rgba(0, 206, 201, 0.6);
+  clip-path: polygon(50% 50%, 50% 50%, 50% 50%);
+}
+
+.p65 {
+  transition-delay: 189ms;
+  background: rgba(0, 206, 201, 0.2);
+  clip-path: polygon(50% 50%, 50% 50%, 50% 50%);
+}
+
+.p66 {
+  transition-delay: 640ms;
+  background: rgba(0, 206, 201, 0.7);
+  clip-path: polygon(50% 50%, 50% 50%, 50% 50%);
+}
+
+.p67 {
+  transition-delay: 509ms;
+  background: rgba(0, 206, 201, 0.3);
+  clip-path: polygon(50% 50%, 50% 50%, 50% 50%);
+}
+
+.p68 {
+  transition-delay: 71ms;
+  background: rgba(0, 206, 201, 0.3);
+  clip-path: polygon(50% 50%, 50% 50%, 50% 50%);
+}
+
+.p69 {
+  transition-delay: 534ms;
+  background: #00cec9;
+  clip-path: polygon(50% 50%, 50% 50%, 50% 50%);
+}
+
+.p70 {
+  transition-delay: 525ms;
+  background: rgba(0, 206, 201, 0.1);
+  clip-path: polygon(50% 50%, 50% 50%, 50% 50%);
+}
+
+.p71 {
+  transition-delay: 571ms;
+  background: rgba(0, 206, 201, 0.3);
+  clip-path: polygon(50% 50%, 50% 50%, 50% 50%);
+}
+
+.p72 {
+  transition-delay: 639ms;
+  background: #00cec9;
+  clip-path: polygon(50% 50%, 50% 50%, 50% 50%);
+}
+
+.p73 {
+  transition-delay: 403ms;
+  background: rgba(0, 206, 201, 0.3);
+  clip-path: polygon(50% 50%, 50% 50%, 50% 50%);
+}
+
+.p74 {
+  transition-delay: 436ms;
+  background: rgba(0, 206, 201, 0.6);
+  clip-path: polygon(50% 50%, 50% 50%, 50% 50%);
+}
+
+.p75 {
+  transition-delay: 594ms;
+  background: rgba(0, 206, 201, 0.4);
+  clip-path: polygon(50% 50%, 50% 50%, 50% 50%);
+}
+
+.p76 {
+  transition-delay: 42ms;
+  background: rgba(0, 206, 201, 0.8);
+  clip-path: polygon(50% 50%, 50% 50%, 50% 50%);
+}
+
+.p77 {
+  transition-delay: 600ms;
+  background: rgba(0, 206, 201, 0.3);
+  clip-path: polygon(50% 50%, 50% 50%, 50% 50%);
+}
+
+.p78 {
+  transition-delay: 569ms;
+  background: rgba(0, 206, 201, 0.3);
+  clip-path: polygon(50% 50%, 50% 50%, 50% 50%);
+}
+
+.p79 {
+  transition-delay: 509ms;
+  background: rgba(0, 206, 201, 0.9);
+  clip-path: polygon(50% 50%, 50% 50%, 50% 50%);
+}
+
+.p80 {
+  transition-delay: 284ms;
+  background: rgba(0, 206, 201, 0.1);
+  clip-path: polygon(50% 50%, 50% 50%, 50% 50%);
+}
+
+.p81 {
+  transition-delay: 600ms;
+  background: rgba(0, 206, 201, 0.5);
+  clip-path: polygon(50% 50%, 50% 50%, 50% 50%);
+}
+
+.p82 {
+  transition-delay: 398ms;
+  background: rgba(0, 206, 201, 0.6);
+  clip-path: polygon(50% 50%, 50% 50%, 50% 50%);
+}
+
+.p83 {
+  transition-delay: 178ms;
+  background: rgba(0, 206, 201, 0.7);
+  clip-path: polygon(50% 50%, 50% 50%, 50% 50%);
+}
+
+.p84 {
+  transition-delay: 99ms;
+  background: rgba(0, 206, 201, 0.8);
+  clip-path: polygon(50% 50%, 50% 50%, 50% 50%);
+}
+
+.p85 {
+  transition-delay: 384ms;
+  background: rgba(0, 206, 201, 0.7);
+  clip-path: polygon(50% 50%, 50% 50%, 50% 50%);
+}
+
+.p86 {
+  transition-delay: 111ms;
+  background: rgba(0, 206, 201, 0.4);
+  clip-path: polygon(50% 50%, 50% 50%, 50% 50%);
+}
+
+.p87 {
+  transition-delay: 679ms;
+  background: rgba(0, 206, 201, 0.3);
+  clip-path: polygon(50% 50%, 50% 50%, 50% 50%);
+}
+
+.p88 {
+  transition-delay: 151ms;
+  background: rgba(0, 206, 201, 0.4);
+  clip-path: polygon(50% 50%, 50% 50%, 50% 50%);
+}
+
+.p89 {
+  transition-delay: 57ms;
+  background: rgba(0, 206, 201, 0.8);
+  clip-path: polygon(50% 50%, 50% 50%, 50% 50%);
+}
+
+.p90 {
+  transition-delay: 133ms;
+  background: #00cec9;
+  clip-path: polygon(50% 50%, 50% 50%, 50% 50%);
+}
+
+.p91 {
+  transition-delay: 390ms;
+  background: rgba(0, 206, 201, 0.6);
+  clip-path: polygon(50% 50%, 50% 50%, 50% 50%);
+}
+
+.p92 {
+  transition-delay: 145ms;
+  background: rgba(0, 206, 201, 0.4);
+  clip-path: polygon(50% 50%, 50% 50%, 50% 50%);
+}
+
+.p93 {
+  transition-delay: 104ms;
+  background: rgba(0, 206, 201, 0.6);
+  clip-path: polygon(50% 50%, 50% 50%, 50% 50%);
+}
+
+.p94 {
+  transition-delay: 140ms;
+  background: rgba(0, 206, 201, 0.5);
+  clip-path: polygon(50% 50%, 50% 50%, 50% 50%);
+}
+
+.p95 {
+  transition-delay: 613ms;
+  background: rgba(0, 206, 201, 0.8);
+  clip-path: polygon(50% 50%, 50% 50%, 50% 50%);
+}
+
+.p96 {
+  transition-delay: 307ms;
+  background: rgba(0, 206, 201, 0.3);
+  clip-path: polygon(50% 50%, 50% 50%, 50% 50%);
+}
+
+.p97 {
+  transition-delay: 628ms;
+  background: rgba(0, 206, 201, 0.9);
+  clip-path: polygon(50% 50%, 50% 50%, 50% 50%);
+}
+
+.p98 {
+  transition-delay: 278ms;
+  background: rgba(0, 206, 201, 0.9);
+  clip-path: polygon(50% 50%, 50% 50%, 50% 50%);
+}
+
+.p99 {
+  transition-delay: 86ms;
+  background: rgba(0, 206, 201, 0.7);
+  clip-path: polygon(50% 50%, 50% 50%, 50% 50%);
+}
+
+.p100 {
+  transition-delay: 54ms;
+  background: rgba(0, 206, 201, 0.3);
+  clip-path: polygon(50% 50%, 50% 50%, 50% 50%);
+}
+
+.p101 {
+  transition-delay: 647ms;
+  background: rgba(0, 206, 201, 0.2);
+  clip-path: polygon(50% 50%, 50% 50%, 50% 50%);
+}
+
+.p102 {
+  transition-delay: 147ms;
+  background: rgba(0, 206, 201, 0.6);
+  clip-path: polygon(50% 50%, 50% 50%, 50% 50%);
+}
+
+.p103 {
+  transition-delay: 84ms;
+  background: rgba(0, 206, 201, 0.7);
+  clip-path: polygon(50% 50%, 50% 50%, 50% 50%);
+}
+
+.canvas {
+  position: relative;
+  width: 800px;
+  height: 600px;
+  border: 1px solid green;
+}
+.canvas > * {
+  position: absolute;
+  width: 800px;
+  height: 600px;
+  left: 0;
+  top: 0;
+  transition: all .5s ease-in;
+}
+
+/*# sourceMappingURL=style.css.map */
